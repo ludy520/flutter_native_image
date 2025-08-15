@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.example.flutternativeimage'"
+    namespace "com.example.flutternativeimage"
     compileSdkVersion 28
 
     defaultConfig {
